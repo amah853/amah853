@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Ahmad Mahrous
+# 👋 Hi, I’m Ahmad Mahrous!
 
-I’m a student developer building practical tools for **theatre, robotics, and everyday productivity**.  
+I’m a student developer who enjoys making practical tools for **robotics, theatre, and other everyday enhancements**!  
 I enjoy turning real-world problems into clean, usable web apps.
 
 🌐 **Website:** [ahmad-mahrous.com](https://ahmad-mahrous.com)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Best Projects
 
 ### 🎭 StageReader
 **A modern script-reading platform for theatre productions**
@@ -35,7 +35,7 @@ I enjoy turning real-world problems into clean, usable web apps.
 Smaller experiments, utilities, and side ideas.
 
 ### ⏱️ Time Sender
-**Schedule messages or reminders to send later**
+**Send someone a link and it'll convert your time to their time!**
 
 - Simple, focused utility
 - Designed for quick use
@@ -44,7 +44,7 @@ Smaller experiments, utilities, and side ideas.
 🔗 https://ahmad-mahrous.com/other/time
 
 ### 🛠️ Other Small Projects
-A collection of prototypes, tools, and experiments.
+You can download any of my other small projects at the link below!
 
 🔗 https://projects.ahmad-mahrous.com
 
@@ -52,10 +52,9 @@ A collection of prototypes, tools, and experiments.
 
 ## 🧠 Interests
 - Web development
-- Automation & tools
+- Robotics (V5RC)
 - Theatre technology
-- Robotics & competition systems
-- Clean UI / UX design
+- Tools that just *work*.
 
 ---
 
