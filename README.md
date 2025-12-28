@@ -10,10 +10,10 @@ All of my apps and projects originate from a problem or frustration I felt neede
 ## Some of my favorite projects include...
 
 ### 🎭 StageReader
-**A modern script-reading platform for theatre productions**
+**A modern application for script-reading in theatre.**
 
-- Read and navigate scripts easily
-- Designed for actors, directors, and stage managers
+- Read and navigate scripts easily with a distractionless interface
+- Designed by theatre people, for theatre people
 - Clean UI with fast performance
 
 🔗 https://stagereader.ahmad-mahrous.com
