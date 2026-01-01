@@ -21,13 +21,14 @@ All of my apps and projects originate from a problem or frustration I felt neede
 ---
 
 ### 🤖 Robotics Staff Portal
-**Internal management system for robotics teams**
+**Internal management system for robotics competitions and leagues**
 
 - Staff tools for events, teams, and logistics
 - Built for real competition workflows
 - Focused on reliability and clarity
 
 🔗 https://staffportal.ahmad-mahrous.com
+🔗 https://www.staffportal.app
 
 ---
 
