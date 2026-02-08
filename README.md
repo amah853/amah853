@@ -27,9 +27,19 @@ All of my apps and projects originate from a problem or frustration I felt neede
 - Built for real competition workflows
 - Focused on reliability and clarity
 
-🔗 https://staffportal.ahmad-mahrous.com
-
 🔗 https://www.staffportal.app
+
+---
+
+### 👩‍💼 Stafflyt
+**All-in-one solution for managing internal job applications**
+
+- Streamlined application process
+- Email notification system
+- Intuitive dashboard interface
+- Application tracking
+
+🔗 https://www.stafflyt.com
 
 ---
 
@@ -43,6 +53,15 @@ All of my apps and projects originate from a problem or frustration I felt neede
 - Part of my growing collection of tools
 
 🔗 https://ahmad-mahrous.com/other/time
+
+### 🔔 Bell+ App
+**Quickly see how much time is left in class with this timer!**
+
+- Simple, focused utility
+- Designed for quick use
+- Part of my growing collection of tools
+
+🔗 https://ahmad-mahrous.com/other/bell/download
 
 ### 🛠️ Other Small Projects
 You can download any of my other small projects at the link below!
@@ -62,4 +81,5 @@ You can download any of my other small projects at the link below!
 ## 📫 Get in Touch
 - Website: https://ahmad-mahrous.com
 - Email: me@ahmad-mahrous.com
+- Resume: https://ahmad-mahrous.com/resume
 - GitHub: https://github.com/amah853 (you are already here though, so not sure how useful this is)
