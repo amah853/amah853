@@ -9,6 +9,18 @@ All of my apps and projects originate from a problem or frustration I felt neede
 
 ## Some of my favorite projects include...
 
+### 🔔 Bell+ Class Timer App
+**Quickly see how much time is left in class with this timer!**
+- Live activity support for lockscreen and dynamic island
+- Homescreen and lockscreen widget support
+- Customizable themes and class alerts
+
+🔗 https://bell.ahmad-mahrous.com
+
+🔗 https://apps.apple.com/us/app/bell/id6758812149
+
+---
+
 ### 🎭 StageReader
 **A modern application for script-reading in theatre.**
 
@@ -54,14 +66,9 @@ All of my apps and projects originate from a problem or frustration I felt neede
 
 🔗 https://ahmad-mahrous.com/other/time
 
-### 🔔 Bell+ App
-**Quickly see how much time is left in class with this timer!**
+🔗 https://apps.apple.com/us/app/time-sender/id6757337174
 
-- Simple, focused utility
-- Designed for quick use
-- Part of my growing collection of tools
-
-🔗 https://ahmad-mahrous.com/other/bell/download
+---
 
 ### 🛠️ Other Small Projects
 You can download any of my other small projects at the link below!
